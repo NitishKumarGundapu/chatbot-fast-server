@@ -1,0 +1,1 @@
+{"id":"2cca975c-3c8c-4cd4-8d87-a2514bd4d546","space":23931,"runtime":"python3.9","name":"chatbot-fast-server","path":"oa9355","project":"d0sg0wfm","account":"144798365827","region":"ap-south-1","deps":["fastapi","requests","googletrans==3.1.0a0"],"envs":null,"public":true,"log_level":"debug","cron":""}
